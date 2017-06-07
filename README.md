@@ -1,3 +1,3 @@
 # Algorithms
 
-Completeed algorithms from COP3530 and Online Test (like hackerrank)
+Completeed algorithms from Data Structures and Algorithms and Online Test (like hackerrank)
